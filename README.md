@@ -26,13 +26,13 @@
 The coin detection project is structured into several steps, starting with basic image processing techniques and culminating in connected component analysis and drawing bounding boxes around detected coins. Additionally, We enhance the detection capabilities and identify the type of coins.
 
 
-[![full pipeline][findVehicles]](project_images/fullpipeline.png)
+[![full pipeline][full pipeline]](project_images/fullpipeline.png)
 <br><br>
 
-[![my pipeline][manageVehicles]](project_images/mypipeline.png)
+[![my pipeline][my pipeline]](project_images/mypipeline.png)
 <br><br>
 
-[![terminal][payment]](project_images/terminal.png)
+[![terminal][terminal]](project_images/terminal.png)
 
 ## Project Steps
 

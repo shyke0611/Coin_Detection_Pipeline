@@ -15,7 +15,7 @@
   <h3 align="center">Coin Detection Pipeline Project</h3>
 
   <p align="center">
-    Software Engineering part 3 assignment for The University of Auckland
+    Software Engineering part 3 assignment for The University of Auckland, handling Image Processing
   </p>
 </div>
 
@@ -24,6 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 [Assignment Overview.pdf](https://github.com/user-attachments/files/16166802/CS373_coin_detection_assignment.pdf)
+
 This project involves developing a Python pipeline to detect and outline coins in images using techniques such as greyscale conversion, edge detection, blurring, thresholding, morphological operations, connected component analysis, and drawing bounding boxes. An extension includes advanced methods for harder images and coin identification.
 
 

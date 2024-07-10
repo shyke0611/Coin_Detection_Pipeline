@@ -15,10 +15,7 @@
   <h3 align="center">Coin Detection Pipeline Project</h3>
 
   <p align="center">
-    This project involves developing a Python pipeline to detect and outline coins in images using techniques such as greyscale conversion, edge detection, blurring, thresholding, morphological operations, 
-    and connected component analysis. An extension includes advanced methods for harder images and coin identification.
-
-
+    Software Engineering part 3 assignment for The University of Auckland
   </p>
 </div>
 
@@ -26,8 +23,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-The coin detection project is structured into several steps, starting with basic image processing techniques and culminating in connected component analysis and drawing bounding boxes around detected coins. Additionally, We enhance the detection capabilities and identify the type of coins.
+[Assignment Overview.pdf](https://github.com/user-attachments/files/16166802/CS373_coin_detection_assignment.pdf)
+This project involves developing a Python pipeline to detect and outline coins in images using techniques such as greyscale conversion, edge detection, blurring, thresholding, morphological operations, connected component analysis, and drawing bounding boxes. An extension includes advanced methods for harder images and coin identification.
 
 
 [![full pipeline][full pipeline]](project_images/fullpipeline.png)

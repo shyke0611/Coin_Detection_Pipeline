@@ -98,14 +98,6 @@ The primary goal was to develop a comprehensive pipeline for detecting and outli
 A significant challenge was ensuring the accuracy and robustness of the coin detection pipeline across different image complexities. This required extensive experimentation with various image processing techniques and fine-tuning parameters. Addressing these issues improved my understanding of computer vision concepts and enhanced my problem-solving abilities. Moreover, I learnt the importance of usability, memorability, and emotional impact in designing a user-friendly system. Integrating Nielsen's heuristics and principles of design such as unity, balance, and emphasis into the pipeline was crucial in achieving a seamless user experience.
 
 
-<!-- CONTACT -->
-## Contact
-
-Email - hyungkenine2003@gmail.com
-
-Project Link - [https://github.com/shyke0611/Coin-detection-pipeline.git](https://github.com/shyke0611/Coin-detection-pipeline.git)
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
